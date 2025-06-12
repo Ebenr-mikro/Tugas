@@ -8,6 +8,7 @@
 **Tugas** adalah aplikasi task management ringan berbasis React + Tailwind CSS yang memudahkan kamu untuk membuat, mengedit, dan menyaring daftar tugas. Cocok digunakan untuk tugas pribadi, proyek mini, atau sebagai starter template belajar React.
 
 🚀 **Live Demo**: [tugas-rouge.vercel.app](https://tugas-rouge.vercel.app)
+🚀 **Link video demo**: [https://mikroskilacid-my.sharepoint.com/:v:/g/personal/julian_caesar_students_mikroskil_ac_id/EYN0deeU9WNAmwF5aEU0lKcBF2LPmYag_Xy4Mt66gqcGVA]
 
 ---
 
